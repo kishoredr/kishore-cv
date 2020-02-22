@@ -53,13 +53,17 @@
     "education":[
       {
         "school":"KVG College of Engineering",
+        "university" : "VTU",
+        "place": "Sullia, Dakshina Kannada",
         "degree":"Master of Computer Applications",
         "graduated":"July 2013",
         "description":""
       },
       {
-        "school":"Bachelor of Science",
-        "degree":"What did you study 101",
+        "school":"Governmnet Science College",
+        "university" : "VTU",
+        "place": "Hassan",
+        "degree":"Governmnet Science College",
         "graduated":"March 2003",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
